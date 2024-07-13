@@ -17,6 +17,7 @@ Front-end
 1. Hmtl
 2. CSS
 3. Boostrap
+4. Javacript
 
 Backend
 1. PHP
